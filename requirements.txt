@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+gTTS
+openai
+transformers
+torch
+anthropic
